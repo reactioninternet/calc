@@ -1,1 +1,1 @@
-this is my attempt number 2 for a readme file
+this is a just a simple calculator :abacus: program and :question: can be directed to [@reactioninternet](https://github.com/reactioninternet)
